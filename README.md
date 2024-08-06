@@ -1,12 +1,6 @@
 # Hotstar-Clone
 
-![image](https://github.com/SanojAhamed/Hotstar-Clone/assets/97176600/8823e771-282e-4a00-b284-d35548c3412a)
-
-
-# Demonstration Video
-
-https://github.com/SanojAhamed/Hotstar-Clone/assets/97176600/04e7598a-f7f6-4f3f-a295-85fc9d2a9fc2
-
+https://thahir25.github.io/Hotstar-Clone/
 
 # Disney+ Hotstar Clone
 
